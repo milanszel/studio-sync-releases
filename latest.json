@@ -1,18 +1,18 @@
 {
-  "version": "0.12.0",
-  "notes": "Install this one by hand on every laptop. After this, Studio Sync updates itself.\n\n* Updates: Studio Sync checks for a new version when it opens and every 6 hours. Click Update and it downloads, checks and installs the new version, then reopens. Downloads come from the public milanszel/studio-sync-releases repo; the code stays private.\n* The FL script updates with the app. When a new app version opens, it replaces an installed older FL script (keeping a backup) and asks you to restart FL Studio.",
+  "version": "0.12.1",
+  "notes": "* The app shows its version, with a Check for updates button, at the top of the window.",
   "files": {
     "mac-x86_64": {
-      "name": "Studio-Sync-0.12.0-Mac-x86_64.dmg",
-      "url": "https://github.com/milanszel/studio-sync-releases/raw/main/downloads/Studio-Sync-0.12.0-Mac-x86_64.dmg",
-      "size": 30917740,
-      "sha256": "6b67914163738a8813fb4c1c502a7e355df25d8056ce977d756f08c20865ef7f"
+      "name": "Studio-Sync-0.12.1-Mac-x86_64.dmg",
+      "url": "https://github.com/milanszel/studio-sync-releases/raw/main/downloads/Studio-Sync-0.12.1-Mac-x86_64.dmg",
+      "size": 30945073,
+      "sha256": "249f15bc45cb8d63b04a1948e03ac225fb8fafac5fa74058881005137414adbe"
     },
     "windows": {
-      "name": "Studio-Sync-Setup-0.12.0.exe",
-      "url": "https://github.com/milanszel/studio-sync-releases/raw/main/downloads/Studio-Sync-Setup-0.12.0.exe",
-      "size": 25556626,
-      "sha256": "e44b9e554e082cd02c07dedda80d8c65aa5c6302c9fa0b2b048971e585b9fd66"
+      "name": "Studio-Sync-Setup-0.12.1.exe",
+      "url": "https://github.com/milanszel/studio-sync-releases/raw/main/downloads/Studio-Sync-Setup-0.12.1.exe",
+      "size": 25558921,
+      "sha256": "e8bf199f1cb16dc7fea5ef27285d268d737d457d71c6c271c0209ff8684b698a"
     }
   }
 }
