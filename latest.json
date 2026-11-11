@@ -1,18 +1,18 @@
 {
-  "version": "0.12.1",
-  "notes": "* The app shows its version, with a Check for updates button, at the top of the window.",
+  "version": "0.13.0",
+  "notes": "* New dark studio look that sits next to FL Studio: dark panels, orange accents, a larger room code, and a sync status panel that's easy to read while playing.\n* Partner View's pop out window matches.",
   "files": {
     "mac-x86_64": {
-      "name": "Studio-Sync-0.12.1-Mac-x86_64.dmg",
-      "url": "https://github.com/milanszel/studio-sync-releases/raw/main/downloads/Studio-Sync-0.12.1-Mac-x86_64.dmg",
-      "size": 30945073,
-      "sha256": "249f15bc45cb8d63b04a1948e03ac225fb8fafac5fa74058881005137414adbe"
+      "name": "Studio-Sync-0.13.0-Mac-x86_64.dmg",
+      "url": "https://github.com/milanszel/studio-sync-releases/raw/main/downloads/Studio-Sync-0.13.0-Mac-x86_64.dmg",
+      "size": 30949804,
+      "sha256": "28f7b37517fa28868b6dda08243ee627120023352c5e9893f4496a68514ed05a"
     },
     "windows": {
-      "name": "Studio-Sync-Setup-0.12.1.exe",
-      "url": "https://github.com/milanszel/studio-sync-releases/raw/main/downloads/Studio-Sync-Setup-0.12.1.exe",
-      "size": 25558921,
-      "sha256": "e8bf199f1cb16dc7fea5ef27285d268d737d457d71c6c271c0209ff8684b698a"
+      "name": "Studio-Sync-Setup-0.13.0.exe",
+      "url": "https://github.com/milanszel/studio-sync-releases/raw/main/downloads/Studio-Sync-Setup-0.13.0.exe",
+      "size": 25560585,
+      "sha256": "58e7fc30e683ccc0738d266f58c51618d762d3cebf6697926eabf52d80bc7d1b"
     }
   }
 }
