@@ -1,0 +1,18 @@
+{
+  "version": "0.11.1",
+  "notes": "* A laptop whose clock was set more than 30 seconds off couldn't stay connected; it kept rejoining until the host blocked it with \"keeps trying to join\". Every laptop now uses the host's clock for its packets, so clock settings no longer matter.\n* A laptop that has already proved the room code is never blocked for rejoining. Only real wrong guesses count toward the limit.",
+  "files": {
+    "mac-x86_64": {
+      "name": "Studio-Sync-0.11.1-Mac-x86_64.dmg",
+      "url": "https://github.com/milanszel/studio-sync-releases/raw/main/downloads/Studio-Sync-0.11.1-Mac-x86_64.dmg",
+      "size": 30911349,
+      "sha256": "51b4f5b2cda8c9e92849b06e9627885186cbfb6bf8884861d540601b8c0e802c"
+    },
+    "windows": {
+      "name": "Studio-Sync-Setup-0.11.1.exe",
+      "url": "https://github.com/milanszel/studio-sync-releases/raw/main/downloads/Studio-Sync-Setup-0.11.1.exe",
+      "size": 25552311,
+      "sha256": "31b3603f2296718e12f4baa60a530d1e309dfa7326a24519bc7d29d533eeef95"
+    }
+  }
+}
